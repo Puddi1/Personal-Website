@@ -23,7 +23,7 @@
                 <img id="image-infos-0" src="/favicon.png" alt="a">
             </div>
             <div class="center-children" id="text-container-infos-0">
-                <h1 class="text-infos-0">Elia Riva</h1>
+                <h1 class="text-infos-0">Puddi</h1>
                 <h2 class="text-infos-0" id="developer-text">Developer</h2>
             </div>
         </div>
