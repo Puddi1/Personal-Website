@@ -4,7 +4,15 @@ Simple standalone portfollio website
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Clone the repo
+
+```bash
+git clone https://github.com/Puddi1/Personal-Website.git
+```
+
+Install dependencies with `npm install` (or `pnpm install` or `yarn`)
+
+Start a development server:
 
 ```bash
 npm run dev
@@ -15,7 +23,7 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of the app:
+To create a production version of the app, simply run:
 
 ```bash
 npm run build
